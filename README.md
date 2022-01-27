@@ -1,1 +1,1 @@
-# duthd3.github.io
+# React를 이용한 쇼핑몰 프로젝트 입니다.
